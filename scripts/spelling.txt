@@ -204,6 +204,7 @@ childern||children
 childs||children
 chiled||child
 chked||checked
+chrot|| chroot
 chnage||change
 chnages||changes
 chnnel||channel
